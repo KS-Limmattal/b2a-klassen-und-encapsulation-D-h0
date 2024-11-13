@@ -1,0 +1,1 @@
+ich habe gelernt wie man Klassen in java programmiert. Das Überladen von Operatoren wurde mir klarer und ich habe gelernt wie man Code sparen könnte (Beispielsweise durch eine invert() oder negative() methode). die Keywords static und private/public verstehe ich.
